@@ -2,7 +2,7 @@ import { View, Text, SafeAreaView } from "react-native";
 import React from "react";
 import tw from "tailwind-react-native-classnames";
 import { Image } from "react-native";
-import NavOptions from "./components/NavOptions";
+import NavOptions from "../NavOptions";
 
 const HomeScreen = () => {
   return (
