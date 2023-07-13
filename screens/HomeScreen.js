@@ -50,6 +50,7 @@ const dispatch = useDispatch();
         />
 
         <NavOptions />
+        <NavFavourites />
       </View>
     </SafeAreaView>
   );
